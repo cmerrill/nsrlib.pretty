@@ -1,5 +1,5 @@
-(module ARM-10P-SWD (layer F.Cu) (tedit 56B68848)
-  (fp_text reference J** (at -4.953 -3.556) (layer F.SilkS)
+(module ARM-10P-SWD (layer F.Cu) (tedit 56B69806)
+  (fp_text reference REF** (at 0 -3.6195) (layer F.SilkS)
     (effects (font (size 1.2 1.2) (thickness 0.15)))
   )
   (fp_text value ARM-10P-SWD (at 0 3.556) (layer F.Fab)
